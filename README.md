@@ -23,7 +23,7 @@ The model was trained on a dataset consisting of 140,000 images, split evenly be
 
 ### Loss Function Graph
 
-![Loss Function Over Epochs](loss function graph.png)
+![Loss Function Over Epochs](https://github.com/mahe115/Deepfake-image-classification/blob/4d0e376897544fcd5142ed79f454319aab15a4a8/loss%20function%20graph.png)
 
 ### Accuracy Graph
 
