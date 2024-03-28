@@ -19,6 +19,17 @@ The model was trained on a dataset consisting of 140,000 images, split evenly be
 - **Training Data**: 70,000 real images and 70,000 fake images
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1 Score, Confusion Matrix, ROC-AUC
 
+## Training Results
+
+### Loss Function Graph
+
+![Loss Function Over Epochs](path/to/your/loss_function_image.png)
+
+### Accuracy Graph
+
+![Accuracy Over Epochs](path/to/your/accuracy_graph_image.png)
+
+
 ## Installation
 
 Before running this project, ensure Python 3.x is installed. Then, install the required dependencies:
