@@ -23,7 +23,7 @@ The model was trained on a dataset consisting of 140,000 images, split evenly be
 
 ### Loss Function Graph
 
-![Loss Function Over Epochs](path/to/your/loss_function_image.png)
+![Loss Function Over Epochs](loss function graph.png)
 
 ### Accuracy Graph
 
