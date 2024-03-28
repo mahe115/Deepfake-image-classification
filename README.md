@@ -27,7 +27,7 @@ The model was trained on a dataset consisting of 140,000 images, split evenly be
 
 ### Accuracy Graph
 
-![Accuracy Over Epochs](path/to/your/accuracy_graph_image.png)
+![Accuracy Over Epochs](https://github.com/mahe115/Deepfake-image-classification/blob/ec1ec2fa74d364591687ba28fa9d7ef49541d131/accuracy%20graph.png)
 
 
 ## Installation
