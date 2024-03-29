@@ -35,11 +35,6 @@ model_path = 'my_own_model25ola.pt'
 class_num = 2
 model = load_model(model_path, class_num)
 
-# # Predicting single images
-# image_paths = ['fake1 (1).jpg', 'fake1 (2).jpg', 'real (1).jpg','real (2).jpg']
-# for image_path in image_paths:
-#     predicted_class = predict_single_image(image_path, model, trans)
-#     print(f'Predicted class of {image_path}: {predicted_class}')
 
 # Path to your single image
 image_path = 'ai-images-news (1).jpg'  # Update this path to your specific image
