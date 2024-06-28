@@ -6,6 +6,10 @@ This project leverages the power of deep learning to differentiate between real 
 
 The increasing sophistication of digital impersonation techniques poses significant security risks. This project aims to bolster the reliability of facial recognition systems by developing a model capable of distinguishing real faces from fakes with high precision.
 
+### Prediction Results
+![Prediction Result](https://github.com/mahe115/Deepfake-image-classification/blob/main/prediction%20few%20images.jpeg)
+
+
 ## Dataset
 
 The model was trained on a dataset consisting of 140,000 images, split evenly between real and fake faces. This dataset was specifically chosen for its balance and variety, providing a comprehensive foundation for training.
